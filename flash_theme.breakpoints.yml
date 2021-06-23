@@ -1,0 +1,16 @@
+# Breakpoints - change based on site need
+flash_theme.small:
+  label: small
+  mediaQuery: 'all and (min-width: 25em)'
+flash_theme.small-med:
+  label: small-med
+  mediaQuery: 'all and (min-width: 26em)'
+flash_theme.small-large:
+  label: small-large
+  mediaQuery: 'all and (min-width: 41em)'
+flash_theme.medium:
+  label: medium
+  mediaQuery: 'all and (min-width: 48em)'
+flash_theme.large:
+  label: large
+  mediaQuery: 'all and (min-width: 61.25em)'
